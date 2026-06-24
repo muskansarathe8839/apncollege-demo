@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first Git Repo
-Auther - Muskan 
+Auther - Muskan sarathe
 abbd
